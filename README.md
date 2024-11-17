@@ -1,4 +1,4 @@
-# Chrome Text Storage Extension
+# TextVault - Chrome Text Storage Extension
 
 A simple Chrome Extension that allows users to store and manage text locally on their browser using Chrome's local storage. This extension provides a lightweight solution for saving text-based notes directly in the browser without needing an external server or cloud service.
 
